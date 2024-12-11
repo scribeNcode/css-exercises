@@ -1,0 +1,19 @@
+#element1{
+    background: black;
+    color: white;
+}
+
+#element2{
+    background-color: #ffff00;
+}
+
+
+
+
+.both{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback */
+
